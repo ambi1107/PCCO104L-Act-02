@@ -27,4 +27,4 @@ class Program
             Console.WriteLine(output);
         }
     }
-}
+  }
